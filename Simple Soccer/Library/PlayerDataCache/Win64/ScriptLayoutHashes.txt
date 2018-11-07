@@ -2,8 +2,8 @@ WindowsStandalone
 PlayerPath?
 C:/Users/Cai/Desktop/Simple Soccer/Simple Soccer.exe
 SceneListBegin?
-Assets/Scenes/Field 1.unity
 Assets/Scenes/Menu.unity
+Assets/Scenes/Field 1.unity
 SceneListEnd?
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.LevelReset
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
