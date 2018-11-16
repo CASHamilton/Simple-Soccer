@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/Cai/Desktop/Simple Soccer/Simple Soccer.exe
+C:/Users/Cai/Desktop/Simple Soccer.exe
 SceneListBegin?
 Assets/Scenes/Menu.unity
 Assets/Scenes/Field 1.unity
@@ -257,3 +257,4 @@ e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 93307bd34e39d73fd24e00ec39c25a91 Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 36ed8d92a07a53bf383bc90e377cc388 Assembly-CSharp-firstpass.dll:UnityStandardAssets._2D.PlatformerCharacter2D
 695c9335429d4798b6f74ca73c042ff4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
+0e6da5c8cc098a8073dda8b9bd3a6980 Assembly-CSharp.dll:.Pause

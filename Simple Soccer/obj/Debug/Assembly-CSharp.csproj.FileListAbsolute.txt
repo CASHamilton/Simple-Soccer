@@ -1,0 +1,2 @@
+F:\Local Projects\Simple-Soccer\Simple Soccer\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Local Projects\Simple-Soccer\Simple Soccer\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
