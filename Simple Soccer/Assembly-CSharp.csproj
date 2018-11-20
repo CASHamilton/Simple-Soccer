@@ -70,7 +70,12 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <Compile Include="Assets\Scene Data\Gamemodeactios.cs" />
+    <Compile Include="Assets\Scene Data\MenuActions.cs" />
+    <Compile Include="Assets\Scene Data\Pause.cs" />
     <Compile Include="Assets\Scripts\Goal.cs" />
+    <Compile Include="Assets\Scripts\Menureturn.cs" />
+    <Compile Include="Assets\Scripts\Reset.cs" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>F:/Local Projects/Simple-Soccer/Simple Soccer/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
